@@ -119,7 +119,7 @@ async function fetchData() {
 
 For more in-depth details, check out the official documentation:
 
-- [Tribe Block JS](indepth//JS.md)
+- [Tribe Block JS](https://github.com/Tribe-Block-University/Java-Script/blob/1c9544b0d0b3671a597d7f641d0628c9a4fa2bb7/Indepth%20JS.md)
 - [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [JavaScript Info](https://javascript.info/)
 
