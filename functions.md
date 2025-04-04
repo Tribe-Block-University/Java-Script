@@ -24,4 +24,4 @@ function greet(name = "Guest") {
 greet(); // Hello, Guest!
 ```
 
-🌐 Further Reading: [MDN Functions]([url](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions))
+🌐 Further Reading: [MDN Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
