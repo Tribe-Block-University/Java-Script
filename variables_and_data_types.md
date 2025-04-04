@@ -19,3 +19,6 @@ JavaScript uses variables to store data. You can declare variables using:
 let name = "John";
 const age = 25;
 console.log(name, age);
+```
+For futher study, check here:
+[MDN Data Types]([url](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures))
