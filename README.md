@@ -1,4 +1,4 @@
-# TribeBlock JS Tutorial
+# Tribe Block JS Tutorial
 
 Welcome to this JavaScript tutorial! This guide is designed to help beginners understand the fundamentals of JavaScript and its key concepts.
 
